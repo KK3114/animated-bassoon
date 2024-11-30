@@ -7,9 +7,126 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:sparse_jungle": "2024-11-30 16:43:30 +0000"
+      "minecraft:sparse_jungle": "2024-11-30 16:43:30 +0000",
+      "minecraft:river": "2024-11-30 17:57:45 +0000",
+      "minecraft:forest": "2024-11-30 17:57:29 +0000",
+      "minecraft:jungle": "2024-11-30 17:57:47 +0000"
     },
     "done": false
+  },
+  "expandedstorage:recipes/misc/wood_mini_chest": {
+    "criteria": {
+      "has_item": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-11-30 17:53:14 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/present": {
+    "criteria": {
+      "has_previous_block": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/pumpkin_chest": {
+    "criteria": {
+      "has_previous_block": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/netherite_mini_chest": {
+    "criteria": {
+      "has_item": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/wood_chest_minecart": {
+    "criteria": {
+      "has_chest": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/wood_to_old_wood_chest": {
+    "criteria": {
+      "has_item": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-11-30 17:58:04 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_previous_block": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-11-30 17:53:16 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/gold_mini_chest": {
+    "criteria": {
+      "has_item": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/obsidian_mini_chest": {
+    "criteria": {
+      "has_item": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/storage_mutator": {
+    "criteria": {
+      "has_chest": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/diamond_mini_chest": {
+    "criteria": {
+      "has_item": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/moss_chest": {
+    "criteria": {
+      "has_previous_block": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/bamboo_chest": {
+    "criteria": {
+      "has_previous_block": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/iron_mini_chest": {
+    "criteria": {
+      "has_item": "2024-11-30 17:56:50 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
