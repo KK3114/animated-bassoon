@@ -11,9 +11,12 @@
       "minecraft:sunflower_plains": "2024-12-01 11:26:55 +0000",
       "minecraft:birch_forest": "2024-12-01 16:23:30 +0000",
       "minecraft:bamboo_jungle": "2024-12-01 10:11:55 +0000",
+      "minecraft:beach": "2024-12-01 18:21:03 +0000",
       "minecraft:dark_forest": "2024-12-01 10:12:03 +0000",
       "minecraft:sparse_jungle": "2024-11-30 16:43:30 +0000",
       "minecraft:river": "2024-11-30 17:57:45 +0000",
+      "minecraft:stony_shore": "2024-12-01 17:58:08 +0000",
+      "minecraft:grove": "2024-12-01 17:48:15 +0000",
       "minecraft:cold_ocean": "2024-12-01 15:42:56 +0000",
       "minecraft:forest": "2024-11-30 17:57:29 +0000",
       "minecraft:lush_caves": "2024-12-01 16:07:21 +0000",
@@ -23,6 +26,7 @@
       "minecraft:flower_forest": "2024-12-01 11:48:48 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-01 10:12:07 +0000",
       "minecraft:meadow": "2024-12-01 12:15:33 +0000",
+      "minecraft:savanna": "2024-12-01 18:00:03 +0000",
       "minecraft:plains": "2024-11-30 18:19:42 +0000"
     },
     "done": false
@@ -2878,6 +2882,7 @@
   },
   "endofherobrine:story/exorcist": {
     "criteria": {
+      "endofherobrine:sheep": "2024-12-01 17:48:07 +0000",
       "endofherobrine:cow": "2024-12-01 16:26:25 +0000",
       "endofherobrine:pigman": "2024-12-01 12:12:58 +0000"
     },
@@ -5058,6 +5063,138 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2024-12-01 16:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-01 17:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-01 17:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-01 17:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-01 18:25:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-01 18:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-01 18:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-01 17:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-01 18:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-01 17:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-01 18:25:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-01 17:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-01 17:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-01 18:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-01 17:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-01 18:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-01 18:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-01 18:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-01 17:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-01 17:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-01 18:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-01 17:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-01 17:55:28 +0000"
     },
     "done": true
   },
