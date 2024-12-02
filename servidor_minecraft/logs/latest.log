@@ -438,3 +438,31 @@
 [02Dec2024 18:38:24.425] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [sons_of_sins:sons_of_sins,elevatorid:main_channel,paraglider:master] rejected their client side version number
 [02Dec2024 18:38:24.428] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [02Dec2024 18:38:24.457] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23bbf05b[id=<null>,name=Alexaire69,properties={},legacy=false] (/127.235.22.107:55165) lost connection: Connection closed - mismatched mod channel list
+[02Dec2024 18:40:49.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZ
+[02Dec2024 18:40:50.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZ
+[02Dec2024 18:40:51.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZ
+[02Dec2024 18:41:42.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[02Dec2024 18:42:03.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rubenmarin21 lost connection: Kicked by an operator
+[02Dec2024 18:42:03.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 left the game
+[02Dec2024 18:42:03.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked rubenmarin21: Kicked by an operator
+[02Dec2024 18:42:03.333] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 18:42:18.160] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [paraglider:master] rejected their client side version number
+[02Dec2024 18:42:18.161] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[02Dec2024 18:42:18.180] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39b7320a[id=<null>,name=Alexaire69,properties={},legacy=false] (/127.235.22.107:45509) lost connection: Connection closed - mismatched mod channel list
+[02Dec2024 18:42:32.830] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47ce62b8[id=<null>,name=rubenmarin21,properties={},legacy=false] (/127.95.16.175:35187) lost connection: Disconnected
+[02Dec2024 18:42:37.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rubenmarin21[/127.95.16.175:46941] logged in with entity id 2452 at (11.40404725990123, 62.9375, -1928.9099469312152)
+[02Dec2024 18:42:37.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 joined the game
+[02Dec2024 18:42:37.735] [Server thread/INFO] [Jade/]: Syncing config to rubenmarin21 (92ab858c-e081-31fe-953c-913deb395d50)
+[02Dec2024 18:45:15.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexaire69[/127.235.22.107:46447] logged in with entity id 3414 at (-279.3809582756461, 55.0, -1890.6048176744537)
+[02Dec2024 18:45:15.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 joined the game
+[02Dec2024 18:45:15.730] [Server thread/INFO] [Jade/]: Syncing config to Alexaire69 (787ef932-3a45-3a2d-a7e7-05eb6a1abbf3)
+[02Dec2024 18:45:22.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> MARICON
+[02Dec2024 18:45:23.978] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-247, y=63, z=-1906}
+[02Dec2024 18:45:24.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexaire69 lost connection: Disconnected
+[02Dec2024 18:45:24.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 left the game
+[02Dec2024 18:46:21.523] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexaire69[/127.235.22.107:48229] logged in with entity id 4180 at (-279.3809582756461, 55.0, -1890.6048176744537)
+[02Dec2024 18:46:21.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 joined the game
+[02Dec2024 18:46:21.623] [Server thread/INFO] [Jade/]: Syncing config to Alexaire69 (787ef932-3a45-3a2d-a7e7-05eb6a1abbf3)
+[02Dec2024 18:46:30.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexaire69 lost connection: Disconnected
+[02Dec2024 18:46:30.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 left the game
+[02Dec2024 18:48:32.625] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-138, y=78, z=-2204}
