@@ -472,3 +472,8 @@
 [02Dec2024 18:57:02.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 was slain by Zombie
 [02Dec2024 18:57:02.305] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for rubenmarin21 with unique ID travelersbackpack.squid_02.12.2024-18.57.02.dat
 [02Dec2024 18:57:02.349] [Server thread/INFO] [tombstone/]: The player rubenmarin21 has successfully been saved
+[02Dec2024 19:00:08.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 was shot by Skeleton Girl
+[02Dec2024 19:00:08.789] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Alexaire69 with unique ID travelersbackpack.squid_02.12.2024-19.00.08.dat
+[02Dec2024 19:00:09.755] [Server thread/INFO] [tombstone/]: The player Alexaire69 has successfully been saved
+[02Dec2024 19:02:27.525] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-278, y=67, z=-1870}
+[02Dec2024 19:05:40.008] [Server thread/INFO] [Easy NPC/]: Opening menu df4883dd-6d56-4918-985c-9fca04c22507 for npc 45d53da7-cad3-4147-aae7-991bd317cd9e and player ServerPlayer['Alexaire69'/6714, l='ServerLevel[world]', x=-36.87, y=117.00, z=-2050.53] with DialogMenuHandler{displayName=literal{oscar}[style={color=#FFFFFF}]}
