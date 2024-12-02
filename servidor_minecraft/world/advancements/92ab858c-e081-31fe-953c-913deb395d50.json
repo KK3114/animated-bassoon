@@ -3296,6 +3296,12 @@
     },
     "done": true
   },
+  "expandedstorage:recipes/misc/diamond_to_old_diamond_chest": {
+    "criteria": {
+      "has_item": "2024-12-02 20:21:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2024-12-02 19:42:08 +0000"
@@ -3620,6 +3626,12 @@
     },
     "done": true
   },
+  "expandedstorage:recipes/misc/obsidian_chest": {
+    "criteria": {
+      "has_previous_block": "2024-12-02 20:21:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2024-12-02 19:47:08 +0000"
@@ -3734,6 +3746,12 @@
     },
     "done": true
   },
+  "expandedstorage:recipes/misc/old_obsidian_chest": {
+    "criteria": {
+      "has_previous_block": "2024-12-02 20:22:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-02 19:39:42 +0000"
@@ -3758,6 +3776,12 @@
     },
     "done": true
   },
+  "expandedstorage:recipes/misc/diamond_chest_minecart": {
+    "criteria": {
+      "has_chest": "2024-12-02 20:21:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-02 19:42:08 +0000"
@@ -3767,6 +3791,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-12-02 19:50:02 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/old_diamond_to_diamond_chest": {
+    "criteria": {
+      "has_item": "2024-12-02 20:22:57 +0000"
     },
     "done": true
   },
