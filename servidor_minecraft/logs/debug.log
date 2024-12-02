@@ -7143,3 +7143,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Dec2024 19:12:12.725] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-225, y=71, z=-2327}
 [02Dec2024 19:15:45.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 19:15:45.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 19:20:45.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 19:20:45.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 19:22:35.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexaire69> zzzzzzzzzzzzz
+[02Dec2024 19:22:48.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexaire69> zzzzzzzzzzzz
+[02Dec2024 19:22:49.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexaire69> zzzzzzzzzzz
+[02Dec2024 19:25:45.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 19:25:45.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 19:27:42.775] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-158, y=84, z=-2202}
+[02Dec2024 19:28:45.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 has made the advancement [Isn't It Iron Pick]
+[02Dec2024 19:30:45.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 19:30:45.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 19:35:45.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 19:35:45.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 19:35:52.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 has made the advancement [Suit Up]
+[02Dec2024 19:37:12.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 has made the advancement [Magic Writing]
