@@ -5355,5 +5355,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cow_smithing": {
+    "criteria": {
+      "has_cow": "2024-12-02 20:42:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

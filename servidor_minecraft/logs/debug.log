@@ -7202,3 +7202,38 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Dec2024 20:38:37.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZ
 [02Dec2024 20:40:45.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 20:40:45.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 20:43:10.525] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-118, y=77, z=-2195}
+[02Dec2024 20:43:50.301] [Server thread/INFO] [Easy NPC/]: Opening menu 6145935a-24dc-4260-bd9a-3c5824a23cc7 for npc 1e970340-6de2-4ad1-9c39-7915640466cf and player ServerPlayer['Alexaire69'/6714, l='ServerLevel[world]', x=-36.05, y=117.00, z=-2048.25] with DialogMenuHandler{displayName=literal{Cesped}[style={color=#BFFF00}]}
+[02Dec2024 20:44:40.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rubenmarin21 lost connection: Disconnected
+[02Dec2024 20:44:40.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 left the game
+[02Dec2024 20:45:45.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 20:45:45.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 20:47:51.183] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexaire69 lost connection: Disconnected
+[02Dec2024 20:47:51.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 left the game
+[02Dec2024 20:47:57.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Dec2024 20:47:57.628] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[02Dec2024 20:47:57.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Dec2024 20:47:57.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Dec2024 20:47:57.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Dec2024 20:47:57.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Dec2024 20:47:57.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[02Dec2024 20:47:57.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Dec2024 20:47:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Dec2024 20:47:57.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 20:47:57.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 20:47:57.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Dec2024 20:47:57.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[02Dec2024 20:47:57.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Dec2024 20:47:57.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Dec2024 20:47:57.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Dec2024 20:47:57.853] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[02Dec2024 20:47:57.853] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[02Dec2024 20:47:57.862] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_deep_void:deep_void
+[02Dec2024 20:47:57.862] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_deep_void:deep_void
+[02Dec2024 20:47:57.863] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[02Dec2024 20:47:57.863] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[02Dec2024 20:47:57.863] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[02Dec2024 20:47:57.863] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[02Dec2024 20:47:57.864] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[02Dec2024 20:47:57.865] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[02Dec2024 20:47:57.866] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
