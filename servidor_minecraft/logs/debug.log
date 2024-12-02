@@ -7128,3 +7128,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Dec2024 19:05:40.008] [Server thread/INFO] [Easy NPC/]: Opening menu df4883dd-6d56-4918-985c-9fca04c22507 for npc 45d53da7-cad3-4147-aae7-991bd317cd9e and player ServerPlayer['Alexaire69'/6714, l='ServerLevel[world]', x=-36.87, y=117.00, z=-2050.53] with DialogMenuHandler{displayName=literal{oscar}[style={color=#FFFFFF}]}
 [02Dec2024 19:05:45.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 19:05:45.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 19:10:45.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 19:10:45.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 19:11:01.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> Z>ZZZZZZZZZZZZZZZZZZZZZ
+[02Dec2024 19:11:02.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZZ
+[02Dec2024 19:11:04.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[02Dec2024 19:11:05.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZ
+[02Dec2024 19:11:07.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZZZ
+[02Dec2024 19:11:08.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[02Dec2024 19:11:10.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZZZ
+[02Dec2024 19:11:11.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[02Dec2024 19:11:13.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[02Dec2024 19:11:15.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZ
+[02Dec2024 19:12:12.725] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-225, y=71, z=-2327}
+[02Dec2024 19:15:45.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 19:15:45.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
