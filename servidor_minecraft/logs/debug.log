@@ -7515,3 +7515,7 @@ java.lang.IllegalStateException: not found
 [04Dec2024 19:05:01.035] [Server thread/INFO] [Jade/]: Syncing config to xXlanzaXx (85691998-f433-38e6-925f-f3fb74baa385)
 [04Dec2024 19:05:14.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXlanzaXx lost connection: Disconnected
 [04Dec2024 19:05:14.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXlanzaXx left the game
+[04Dec2024 19:08:19.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 19:08:19.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 19:13:19.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 19:13:19.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
