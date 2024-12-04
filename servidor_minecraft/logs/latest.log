@@ -494,3 +494,19 @@
 [04Dec2024 15:37:41.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rubenmarin21 lost connection: Disconnected
 [04Dec2024 15:37:41.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 left the game
 [04Dec2024 15:41:06.087] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-285, y=63, z=-1916}
+[04Dec2024 15:51:35.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexaire69 lost connection: Disconnected
+[04Dec2024 15:51:35.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 left the game
+[04Dec2024 15:51:55.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Dec2024 15:51:55.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Dec2024 15:51:55.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Dec2024 15:51:55.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Dec2024 15:51:55.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Dec2024 15:51:55.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Dec2024 15:51:55.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[04Dec2024 15:51:55.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Dec2024 15:51:55.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Dec2024 15:51:55.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Dec2024 15:51:55.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[04Dec2024 15:51:55.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Dec2024 15:51:55.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Dec2024 15:51:55.459] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
