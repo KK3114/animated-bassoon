@@ -6446,3 +6446,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Dec2024 12:57:34.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexaire69: Set own game mode to Survival Mode]
 [04Dec2024 12:58:58.484] [Server thread/INFO] [Easy NPC/]: Opening menu d6d2eb40-1f56-4c24-a754-e52730ee8826 for npc 1e970340-6de2-4ad1-9c39-7915640466cf and player ServerPlayer['Alexaire69'/539, l='ServerLevel[world]', x=-36.02, y=117.00, z=-2047.14] with DialogMenuHandler{displayName=literal{Cesped}[style={color=#BFFF00}]}
 [04Dec2024 13:00:15.990] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-41, y=97, z=-2011}
+[04Dec2024 13:00:53.006] [Server thread/INFO] [Easy NPC/]: Opening menu b45fe0d5-dedb-4163-9eba-31e837fae769 for npc 1e970340-6de2-4ad1-9c39-7915640466cf and player ServerPlayer['Alexaire69'/539, l='ServerLevel[world]', x=-36.05, y=117.00, z=-2047.76] with DialogMenuHandler{displayName=literal{Cesped}[style={color=#BFFF00}]}
+[04Dec2024 13:01:48.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 13:01:48.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 13:02:05.831] [Server thread/INFO] [Easy NPC/]: Opening menu 148c6b6d-776a-4ae0-88df-7c2604bd2d76 for npc 45d53da7-cad3-4147-aae7-991bd317cd9e and player ServerPlayer['Alexaire69'/539, l='ServerLevel[world]', x=-37.49, y=117.00, z=-2051.44] with DialogMenuHandler{displayName=literal{oscar}[style={color=#FFFFFF}]}
+[04Dec2024 13:04:00.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZ
+[04Dec2024 13:06:48.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 13:06:48.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
