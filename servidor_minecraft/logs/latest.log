@@ -480,3 +480,7 @@
 [04Dec2024 21:30:37.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 has reached the goal [Chain Death]
 [04Dec2024 21:30:37.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 was slain by Cave Spider
 [04Dec2024 21:30:37.721] [Server thread/INFO] [tombstone/]: The player rubenmarin21 has successfully been saved
+[04Dec2024 21:36:22.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 has made the advancement [Call For Adventure]
+[04Dec2024 21:37:10.141] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=1097, y=66, z=-2667}
+[04Dec2024 21:38:44.630] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[04Dec2024 21:41:26.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexaire69: Teleported rubenmarin21 to Alexaire69]

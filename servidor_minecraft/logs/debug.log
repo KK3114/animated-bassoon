@@ -9713,3 +9713,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Dec2024 21:30:37.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 was slain by Cave Spider
 [04Dec2024 21:30:37.713] [Server thread/DEBUG] [tombstone/]: A new grave of the player rubenmarin21 was created at position [x:1371, y:19, z:-2712, dim:minecraft:overworld]
 [04Dec2024 21:30:37.721] [Server thread/INFO] [tombstone/]: The player rubenmarin21 has successfully been saved
+[04Dec2024 21:34:51.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:34:51.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:36:22.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 has made the advancement [Call For Adventure]
+[04Dec2024 21:37:10.141] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=1097, y=66, z=-2667}
+[04Dec2024 21:38:44.630] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[04Dec2024 21:39:51.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:39:51.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:40:21.179] [Worker-Main-34/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (1716 | 48 | -3148).
+[04Dec2024 21:40:21.179] [Worker-Main-34/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[04Dec2024 21:40:21.180] [Worker-Main-34/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 3(0) Rooms
+[04Dec2024 21:40:21.180] [Worker-Main-34/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[04Dec2024 21:40:21.180] [Worker-Main-34/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 6(0) Rooms
+[04Dec2024 21:40:21.180] [Worker-Main-34/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[04Dec2024 21:40:21.181] [Worker-Main-34/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 7(3) Nodes and 5(0) Rooms
+[04Dec2024 21:40:21.181] [Worker-Main-34/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[04Dec2024 21:40:21.181] [Worker-Main-34/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 6(2) Nodes and 6(0) Rooms
+[04Dec2024 21:40:21.182] [Worker-Main-34/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[04Dec2024 21:40:21.183] [Worker-Main-34/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 9(0) Nodes and 5(0) Rooms
+[04Dec2024 21:41:26.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexaire69: Teleported rubenmarin21 to Alexaire69]
