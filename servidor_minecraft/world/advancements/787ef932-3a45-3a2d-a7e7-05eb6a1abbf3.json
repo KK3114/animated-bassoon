@@ -16,6 +16,7 @@
       "minecraft:sparse_jungle": "2024-11-30 16:43:30 +0000",
       "minecraft:river": "2024-11-30 17:57:45 +0000",
       "minecraft:stony_shore": "2024-12-01 17:58:08 +0000",
+      "minecraft:dripstone_caves": "2024-12-04 21:24:50 +0000",
       "minecraft:grove": "2024-12-01 17:48:15 +0000",
       "minecraft:cold_ocean": "2024-12-01 15:42:56 +0000",
       "minecraft:forest": "2024-11-30 17:57:29 +0000",
@@ -1909,7 +1910,8 @@
       "cooked_cod": "2024-12-04 20:25:01 +0000",
       "bread": "2024-12-01 12:17:52 +0000",
       "golden_apple": "2024-12-01 14:16:06 +0000",
-      "salmon": "2024-12-04 19:23:47 +0000"
+      "salmon": "2024-12-04 19:23:47 +0000",
+      "melon_slice": "2024-12-04 21:01:52 +0000"
     },
     "done": false
   },
@@ -5545,9 +5547,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-04 21:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-04 21:11:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-04 20:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-04 21:17:59 +0000"
     },
     "done": true
   },
@@ -5563,9 +5583,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-04 21:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-12-04 21:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-04 21:17:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-04 20:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-04 21:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-04 21:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-04 21:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-04 21:17:59 +0000"
     },
     "done": true
   },
@@ -5575,15 +5637,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-04 21:17:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-12-04 20:56:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-04 21:10:49 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2024-12-04 20:52:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-04 21:17:59 +0000"
     },
     "done": true
   },

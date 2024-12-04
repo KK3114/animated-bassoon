@@ -28,6 +28,7 @@
       "minecraft:sparse_jungle": "2024-12-01 18:05:20 +0000",
       "minecraft:river": "2024-12-01 14:55:28 +0000",
       "minecraft:stony_shore": "2024-12-01 15:16:26 +0000",
+      "minecraft:dripstone_caves": "2024-12-04 21:24:32 +0000",
       "minecraft:grove": "2024-12-01 17:48:18 +0000",
       "minecraft:cold_ocean": "2024-12-01 15:42:57 +0000",
       "minecraft:forest": "2024-12-01 15:15:34 +0000",
@@ -699,6 +700,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-04 21:25:43 +0000",
       "cooked_beef": "2024-12-01 15:10:14 +0000",
       "apple": "2024-12-01 18:12:19 +0000",
       "bread": "2024-12-01 17:49:22 +0000",
@@ -5244,6 +5246,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-04 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-04 21:24:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-04 20:57:05 +0000"
@@ -5256,9 +5270,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-04 21:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-12-04 21:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-12-04 20:57:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-04 21:12:18 +0000"
     },
     "done": true
   },
@@ -5271,6 +5303,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-04 20:57:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-04 21:13:34 +0000"
     },
     "done": true
   },

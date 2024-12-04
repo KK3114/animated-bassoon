@@ -9679,3 +9679,37 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Dec2024 20:58:11.297] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1388, y=50, z=-2967}
 [04Dec2024 20:59:51.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 20:59:51.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:04:51.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:04:51.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:09:10.041] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=1411, y=96, z=-2696}
+[04Dec2024 21:09:51.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:09:51.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:10:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 was shot by Stray
+[04Dec2024 21:10:04.271] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Alexaire69 with unique ID travelersbackpack.spider_04.12.2024-21.10.04.dat
+[04Dec2024 21:10:05.420] [Server thread/DEBUG] [tombstone/]: A new grave of the player Alexaire69 was created at position [x:1363, y:19, z:-2700, dim:minecraft:overworld]
+[04Dec2024 21:10:05.436] [Server thread/INFO] [tombstone/]: The player Alexaire69 has successfully been saved
+[04Dec2024 21:11:21.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 has made the advancement [Take Aim]
+[04Dec2024 21:13:32.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 was shot by Stray
+[04Dec2024 21:13:32.323] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for rubenmarin21 with unique ID travelersbackpack.spider_04.12.2024-21.13.32.dat
+[04Dec2024 21:13:32.324] [Server thread/DEBUG] [tombstone/]: A new grave of the player rubenmarin21 was created at position [x:1347, y:10, z:-2742, dim:minecraft:overworld]
+[04Dec2024 21:13:32.333] [Server thread/INFO] [tombstone/]: The player rubenmarin21 has successfully been saved
+[04Dec2024 21:13:34.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 has made the advancement [The Most Useful Key]
+[04Dec2024 21:13:39.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 has reached the goal [A Fast Comeback]
+[04Dec2024 21:14:51.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:14:51.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:19:51.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:19:51.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:21:40.091] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=1282, y=63, z=-2831}
+[04Dec2024 21:24:14.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 has made the advancement [Cover Me with Diamonds]
+[04Dec2024 21:24:51.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:24:51.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:29:51.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 21:29:51.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 21:29:52.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 was slain by Cave Spider
+[04Dec2024 21:29:52.412] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for rubenmarin21 with unique ID travelersbackpack.spider_04.12.2024-21.29.52.dat
+[04Dec2024 21:29:52.414] [Server thread/DEBUG] [tombstone/]: A new grave of the player rubenmarin21 was created at position [x:1371, y:19, z:-2702, dim:minecraft:overworld]
+[04Dec2024 21:29:52.418] [Server thread/INFO] [tombstone/]: The player rubenmarin21 has successfully been saved
+[04Dec2024 21:30:37.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 has reached the goal [Chain Death]
+[04Dec2024 21:30:37.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 was slain by Cave Spider
+[04Dec2024 21:30:37.713] [Server thread/DEBUG] [tombstone/]: A new grave of the player rubenmarin21 was created at position [x:1371, y:19, z:-2712, dim:minecraft:overworld]
+[04Dec2024 21:30:37.721] [Server thread/INFO] [tombstone/]: The player rubenmarin21 has successfully been saved
