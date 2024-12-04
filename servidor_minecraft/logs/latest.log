@@ -451,3 +451,4 @@
 [04Dec2024 13:00:53.006] [Server thread/INFO] [Easy NPC/]: Opening menu b45fe0d5-dedb-4163-9eba-31e837fae769 for npc 1e970340-6de2-4ad1-9c39-7915640466cf and player ServerPlayer['Alexaire69'/539, l='ServerLevel[world]', x=-36.05, y=117.00, z=-2047.76] with DialogMenuHandler{displayName=literal{Cesped}[style={color=#BFFF00}]}
 [04Dec2024 13:02:05.831] [Server thread/INFO] [Easy NPC/]: Opening menu 148c6b6d-776a-4ae0-88df-7c2604bd2d76 for npc 45d53da7-cad3-4147-aae7-991bd317cd9e and player ServerPlayer['Alexaire69'/539, l='ServerLevel[world]', x=-37.49, y=117.00, z=-2051.44] with DialogMenuHandler{displayName=literal{oscar}[style={color=#FFFFFF}]}
 [04Dec2024 13:04:00.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZ
+[04Dec2024 13:12:46.037] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-414, y=61, z=-2090}
