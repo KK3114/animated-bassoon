@@ -455,3 +455,4 @@
 [04Dec2024 13:36:32.104] [Server thread/INFO] [Easy NPC/]: Opening menu e4245fe4-8e5f-4592-b7d7-1d5fde89a57f for npc 45d53da7-cad3-4147-aae7-991bd317cd9e and player ServerPlayer['Alexaire69'/539, l='ServerLevel[world]', x=-38.15, y=117.00, z=-2053.90] with DialogMenuHandler{displayName=literal{oscar}[style={color=#FFFFFF}]}
 [04Dec2024 13:40:58.137] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-126, y=78, z=-2227}
 [04Dec2024 13:47:28.187] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=6, y=86, z=-2089}
+[04Dec2024 13:53:58.237] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-143, y=78, z=-2228}
