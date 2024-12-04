@@ -461,3 +461,12 @@
 [04Dec2024 18:24:15.193] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [comforts:main,spartanshields:network,expandedstorage:channel,cosmeticarmorreworked:main,securitycraft:securitycraft] rejected their client side version number
 [04Dec2024 18:24:15.195] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [04Dec2024 18:24:15.264] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@483b47f[id=<null>,name=xXlanzaXx,properties={},legacy=false] (/127.15.26.174:41203) lost connection: Connection closed - mismatched mod channel list
+[04Dec2024 18:31:54.674] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-43, y=71, z=-2257}
+[04Dec2024 18:33:30.835] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3edf4dbd[id=<null>,name=Alexaire69,properties={},legacy=false] (/127.235.22.107:60651) lost connection: Disconnected
+[04Dec2024 18:33:37.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexaire69[/127.235.22.107:47267] logged in with entity id 6174 at (-272.0276147488972, 64.0, -1903.042716005975)
+[04Dec2024 18:33:37.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 joined the game
+[04Dec2024 18:33:37.821] [Server thread/INFO] [Jade/]: Syncing config to Alexaire69 (787ef932-3a45-3a2d-a7e7-05eb6a1abbf3)
+[04Dec2024 18:33:40.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[04Dec2024 18:35:15.415] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [expandedstorage:channel] rejected their client side version number
+[04Dec2024 18:35:15.415] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[04Dec2024 18:35:15.443] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21d18839[id=<null>,name=xXlanzaXx,properties={},legacy=false] (/127.15.26.174:33273) lost connection: Connection closed - mismatched mod channel list
