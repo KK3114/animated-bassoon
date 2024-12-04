@@ -454,3 +454,11 @@
 [04Dec2024 20:42:23.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 has made the advancement [Call For Adventure]
 [04Dec2024 20:42:27.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3998ms or 79 ticks behind
 [04Dec2024 20:42:40.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/9959, l='ServerLevel[world]', x=345.70, y=89.00, z=-2408.63] died, message: 'Possessed Villager was slain by rubenmarin21'
+[04Dec2024 20:44:14.191] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=364, y=94, z=-2404}
+[04Dec2024 20:45:26.889] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[04Dec2024 20:50:35.792] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=915, y=71, z=-2168}
+[04Dec2024 20:55:31.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rubenmarin21 moved too quickly! 7.174924934768342,0.37673561378173304,-7.362678873122604
+[04Dec2024 20:55:31.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexaire69 moved too quickly! 8.901677756078016,-1.252203340253729,-4.681855814727896
+[04Dec2024 20:55:31.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
+[04Dec2024 20:58:11.296] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1388, y=50, z=-2967} but found not block entity block Block{minecraft:water}[level=0] at location
+[04Dec2024 20:58:11.297] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1388, y=50, z=-2967}
