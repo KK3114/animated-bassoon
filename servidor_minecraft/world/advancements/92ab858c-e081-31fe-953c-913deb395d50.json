@@ -5014,6 +5014,12 @@
     },
     "done": true
   },
+  "endofherobrine:story/angler": {
+    "criteria": {
+      "requirement": "2024-12-04 14:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-04 13:19:49 +0000"

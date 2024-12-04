@@ -457,3 +457,5 @@
 [04Dec2024 13:47:28.187] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=6, y=86, z=-2089}
 [04Dec2024 13:53:58.237] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-143, y=78, z=-2228}
 [04Dec2024 14:12:28.287] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-120, y=78, z=-2207}
+[04Dec2024 14:37:20.071] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-84, y=62, z=-2137}
+[04Dec2024 14:37:58.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 has completed the challenge [This fish looks odd]

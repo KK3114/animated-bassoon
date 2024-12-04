@@ -5481,6 +5481,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dark_oak_window_pane": {
+    "criteria": {
+      "has_ingredient": "2024-12-04 14:24:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_the_recipe": "2024-12-04 14:19:21 +0000"
