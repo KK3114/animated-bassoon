@@ -543,3 +543,5 @@ java.lang.IllegalStateException: not found
 [04Dec2024 19:05:01.035] [Server thread/INFO] [Jade/]: Syncing config to xXlanzaXx (85691998-f433-38e6-925f-f3fb74baa385)
 [04Dec2024 19:05:14.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xXlanzaXx lost connection: Disconnected
 [04Dec2024 19:05:14.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXlanzaXx left the game
+[04Dec2024 19:23:14.944] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-294, y=66, z=-1845}
+[04Dec2024 19:26:05.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexaire69: Set the weather to clear]
