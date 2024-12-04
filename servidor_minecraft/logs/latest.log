@@ -545,3 +545,10 @@ java.lang.IllegalStateException: not found
 [04Dec2024 19:05:14.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xXlanzaXx left the game
 [04Dec2024 19:23:14.944] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-294, y=66, z=-1845}
 [04Dec2024 19:26:05.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexaire69: Set the weather to clear]
+[04Dec2024 19:29:32.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 has made the advancement [An adventure awaits you]
+[04Dec2024 19:29:58.294] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-55, y=66, z=-2188}
+[04Dec2024 19:32:02.895] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[04Dec2024 19:32:02.897] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[04Dec2024 19:32:03.509] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID d3888d61-f86a-4b56-af52-44ac8683d355
+[04Dec2024 19:32:03.681] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID de2bcd6f-1e67-449a-b81e-695f06928eed
+[04Dec2024 19:32:03.684] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/animated-bassoon/servidor_minecraft/./crash-reports/crash-2024-12-04_19.32.03-server.txt
