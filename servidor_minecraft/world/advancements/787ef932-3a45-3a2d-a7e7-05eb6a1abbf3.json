@@ -554,6 +554,7 @@
       "minecraft:vindicator": "2024-12-01 16:34:44 +0000",
       "minecraft:spider": "2024-12-01 12:16:43 +0000",
       "minecraft:creeper": "2024-12-01 11:11:49 +0000",
+      "minecraft:witch": "2024-12-04 15:02:38 +0000",
       "minecraft:wither_skeleton": "2024-12-01 14:16:18 +0000",
       "minecraft:cave_spider": "2024-12-02 19:46:39 +0000",
       "minecraft:stray": "2024-12-01 13:02:04 +0000",
@@ -5367,6 +5368,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2024-12-04 15:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-04 13:10:26 +0000"
@@ -5376,6 +5383,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-04 13:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-04 15:11:42 +0000"
     },
     "done": true
   },

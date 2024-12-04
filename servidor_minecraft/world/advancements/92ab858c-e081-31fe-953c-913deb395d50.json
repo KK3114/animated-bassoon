@@ -4672,6 +4672,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-04 15:10:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-04 13:18:20 +0000"
@@ -4954,6 +4960,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-04 15:10:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2024-12-04 13:18:45 +0000"
@@ -5056,6 +5068,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-04 15:10:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2024-12-04 13:18:45 +0000"
@@ -5143,6 +5161,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-04 13:18:20 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-04 15:10:33 +0000"
     },
     "done": true
   },

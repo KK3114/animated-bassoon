@@ -7581,3 +7581,53 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Dec2024 15:01:48.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 15:01:48.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Dec2024 15:01:52.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> NOE........
+[04Dec2024 15:03:08.321] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (269 | 19 | -1298)
+[04Dec2024 15:03:08.321] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (269 | 19 | -1298)
+[04Dec2024 15:03:08.323] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (257 | 19 | -1303)
+[04Dec2024 15:03:08.323] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (257 | 19 | -1303)
+[04Dec2024 15:03:08.323] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (257 | 0 | -1312)
+[04Dec2024 15:03:08.323] [Worker-Main-29/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (257 | 0 | -1312)
+[04Dec2024 15:03:09.818] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (269 | 19 | -1298)
+[04Dec2024 15:03:09.818] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation NONE at (269 | 19 | -1298)
+[04Dec2024 15:03:09.819] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (257 | 19 | -1303)
+[04Dec2024 15:03:09.819] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (257 | 19 | -1303)
+[04Dec2024 15:03:09.819] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (285 | 19 | -1284)
+[04Dec2024 15:03:09.819] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (285 | 19 | -1284)
+[04Dec2024 15:03:09.819] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (273 | 10 | -1288)
+[04Dec2024 15:03:09.819] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (273 | 10 | -1288)
+[04Dec2024 15:03:09.819] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (273 | 10 | -1288)
+[04Dec2024 15:03:09.819] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (273 | 10 | -1288)
+[04Dec2024 15:03:09.819] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (274 | 10 | -1289)
+[04Dec2024 15:03:09.819] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (274 | 10 | -1289)
+[04Dec2024 15:03:09.820] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (274 | 10 | -1289)
+[04Dec2024 15:03:09.820] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (274 | 10 | -1289)
+[04Dec2024 15:03:09.820] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (258 | 10 | -1293)
+[04Dec2024 15:03:09.820] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (258 | 10 | -1293)
+[04Dec2024 15:03:09.820] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (258 | 10 | -1293)
+[04Dec2024 15:03:09.821] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (258 | 10 | -1293)
+[04Dec2024 15:03:09.821] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (284 | 10 | -1288)
+[04Dec2024 15:03:09.821] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (284 | 10 | -1288)
+[04Dec2024 15:03:09.821] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (284 | 10 | -1288)
+[04Dec2024 15:03:09.821] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (284 | 10 | -1288)
+[04Dec2024 15:03:09.821] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (279 | 10 | -1289)
+[04Dec2024 15:03:09.821] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (279 | 10 | -1289)
+[04Dec2024 15:03:09.821] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (279 | 10 | -1289)
+[04Dec2024 15:03:09.822] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (279 | 10 | -1289)
+[04Dec2024 15:03:09.822] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (285 | 10 | -1293)
+[04Dec2024 15:03:09.822] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (285 | 10 | -1293)
+[04Dec2024 15:03:09.822] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (285 | 10 | -1293)
+[04Dec2024 15:03:09.822] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (285 | 10 | -1293)
+[04Dec2024 15:03:09.823] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (257 | 0 | -1312)
+[04Dec2024 15:03:09.823] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation NONE at (257 | 0 | -1312)
+[04Dec2024 15:03:13.323] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (285 | 19 | -1284)
+[04Dec2024 15:03:13.325] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation COUNTERCLOCKWISE_90 at (285 | 19 | -1284)
+[04Dec2024 15:03:13.325] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation NONE at (285 | 10 | -1293)
+[04Dec2024 15:03:13.328] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation NONE at (285 | 10 | -1293)
+[04Dec2024 15:03:13.329] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (285 | 10 | -1293)
+[04Dec2024 15:03:13.333] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/room at (285 | 10 | -1293)
+[04Dec2024 15:06:48.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 15:06:48.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 15:07:19.238] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-81, y=58, z=-2142}
+[04Dec2024 15:11:16.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 has made the advancement [Fishy Business]
+[04Dec2024 15:11:48.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 15:11:48.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
