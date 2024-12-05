@@ -449,3 +449,5 @@
 [05Dec2024 18:12:10.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexaire69: Successfully filled 648 block(s)]
 [05Dec2024 18:14:17.928] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-273, y=63, z=-1917}
 [05Dec2024 18:29:37.978] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-256, y=63, z=-1906}
+[05Dec2024 18:53:58.029] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-316, y=62, z=-1928}
+[05Dec2024 18:58:21.730] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-240, y=64, z=-1934}
