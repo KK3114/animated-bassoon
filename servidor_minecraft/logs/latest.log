@@ -456,3 +456,9 @@
 [05Dec2024 13:46:21.876] [Server thread/INFO] [Jade/]: Syncing config to Alexaire69 (787ef932-3a45-3a2d-a7e7-05eb6a1abbf3)
 [05Dec2024 14:03:08.229] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-145, y=78, z=-2233}
 [05Dec2024 14:03:26.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZ
+[05Dec2024 14:07:29.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rubenmarin21 moved too quickly! -1.2466884023992293,-10.80652611000901,0.3234812636719653
+[05Dec2024 14:07:29.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6039ms or 120 ticks behind
+[05Dec2024 14:07:29.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexaire69 moved too quickly! 0.09609484148228375,0.0,10.054412441311797
+[05Dec2024 14:07:41.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexaire69: Teleported rubenmarin21 to Alexaire69]
+[05Dec2024 14:14:41.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZ
+[05Dec2024 14:14:43.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZ
