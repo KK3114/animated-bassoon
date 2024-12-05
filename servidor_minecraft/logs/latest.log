@@ -440,3 +440,5 @@
 [05Dec2024 17:41:34.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5256ms or 105 ticks behind
 [05Dec2024 17:41:36.846] [Server thread/INFO] [Easy NPC/]: Opening menu 52a6bac3-46d0-4306-a9e6-788acf88ce2b for npc 45d53da7-cad3-4147-aae7-991bd317cd9e and player ServerPlayer['Alexaire69'/618, l='ServerLevel[world]', x=-38.72, y=117.00, z=-2051.10] with DialogMenuHandler{displayName=literal{oscar}[style={color=#FFFFFF}]}
 [05Dec2024 17:44:49.283] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-208, y=61, z=-1923}
+[05Dec2024 17:52:08.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexaire69> WI
+[05Dec2024 17:54:32.929] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-304, y=66, z=-1857}
