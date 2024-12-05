@@ -460,3 +460,7 @@
 [05Dec2024 20:04:03.928] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-260, y=63, z=-1890}
 [05Dec2024 20:05:27.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexaire69: Set own game mode to Creative Mode]
 [05Dec2024 20:05:58.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexaire69: Set own game mode to Survival Mode]
+[05Dec2024 20:16:42.378] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-258, y=63, z=-1915}
+[05Dec2024 20:22:54.779] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-298, y=63, z=-1932}
+[05Dec2024 20:31:36.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexaire69 lost connection: Disconnected
+[05Dec2024 20:31:36.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 left the game
