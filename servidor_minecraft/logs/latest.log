@@ -451,3 +451,6 @@
 [05Dec2024 13:08:22.179] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-111, y=78, z=-2207}
 [05Dec2024 13:14:35.229] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-158, y=79, z=-2219}
 [05Dec2024 13:33:15.179] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-138, y=78, z=-2211}
+[05Dec2024 13:46:21.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexaire69[/127.235.22.107:37345] logged in with entity id 24232 at (-281.16402892556414, 55.0, -1889.0088356594197)
+[05Dec2024 13:46:21.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 joined the game
+[05Dec2024 13:46:21.876] [Server thread/INFO] [Jade/]: Syncing config to Alexaire69 (787ef932-3a45-3a2d-a7e7-05eb6a1abbf3)
