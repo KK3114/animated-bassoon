@@ -471,3 +471,4 @@
 [05Dec2024 14:26:57.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZ
 [05Dec2024 14:27:09.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> zzzzzzzzzzzzzzzzzzzzzz<zzzzzzzzzzzzzzzzzzzzzz<zzzzzzzzzzzzzzzzzzzzzzzzzzzzz<zzzzzzzzzzzzzzzzzzzzzzzz
 [05Dec2024 14:40:14.329] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-81, y=78, z=-2245}
+[05Dec2024 14:49:47.329] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-68, y=73, z=-2209}
