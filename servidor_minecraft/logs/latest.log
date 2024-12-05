@@ -456,3 +456,4 @@
 [05Dec2024 19:26:15.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexaire69: Set own game mode to Survival Mode]
 [05Dec2024 19:38:17.229] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-288, y=64, z=-1905}
 [05Dec2024 19:47:37.378] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-256, y=63, z=-1909}
+[05Dec2024 19:51:29.378] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-315, y=65, z=-1953}
