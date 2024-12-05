@@ -457,3 +457,6 @@
 [05Dec2024 19:38:17.229] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-288, y=64, z=-1905}
 [05Dec2024 19:47:37.378] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-256, y=63, z=-1909}
 [05Dec2024 19:51:29.378] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-315, y=65, z=-1953}
+[05Dec2024 20:04:03.928] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-260, y=63, z=-1890}
+[05Dec2024 20:05:27.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexaire69: Set own game mode to Creative Mode]
+[05Dec2024 20:05:58.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alexaire69: Set own game mode to Survival Mode]
