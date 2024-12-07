@@ -446,3 +446,10 @@
 [07Dec2024 16:21:33.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5280ms or 105 ticks behind
 [07Dec2024 16:21:39.678] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2571, l='ServerLevel[world]', x=276.73, y=92.77, z=-568.53] died, message: 'Unemployed was slain by Zombie Girl'
 [07Dec2024 16:25:53.117] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=352, y=64, z=-1374}
+[07Dec2024 16:34:33.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aras[/127.48.6.62:48783] logged in with entity id 7787 at (-37.69999998807907, 64.0, -1923.9132772942621)
+[07Dec2024 16:34:33.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras joined the game
+[07Dec2024 16:34:33.490] [Server thread/INFO] [Jade/]: Syncing config to aras (8083625b-d94e-3165-8b81-a8a6e1e3f6dc)
+[07Dec2024 16:34:33.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras has made the advancement [Christmas]
+[07Dec2024 16:39:29.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras has made the advancement [Cover Me with Diamonds]
+[07Dec2024 16:40:53.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras has made the advancement [Acquire Hardware]
+[07Dec2024 16:41:04.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras has made the advancement [Isn't It Iron Pick]
