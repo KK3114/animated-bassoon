@@ -462,3 +462,5 @@
 [07Dec2024 16:50:42.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras has made the advancement [The Most Useful Key]
 [07Dec2024 16:50:48.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras has made the advancement [Knowledge of Death]
 [07Dec2024 16:50:48.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras has reached the goal [A Fast Comeback]
+[07Dec2024 16:55:52.017] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-180, y=78, z=-2232}
+[07Dec2024 16:57:23.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras has made the advancement [Diamonds!]
