@@ -614,3 +614,6 @@
 [08Dec2024 17:43:48.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> ZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZz
 [08Dec2024 17:43:49.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZ
 [08Dec2024 17:43:50.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:47:13.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rubenmarin21 lost connection: Disconnected
+[08Dec2024 17:47:13.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 left the game
+[08Dec2024 17:50:20.794] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-143, y=78, z=-2230}
