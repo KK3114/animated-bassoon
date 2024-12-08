@@ -582,3 +582,35 @@
 [08Dec2024 17:31:44.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras was slain by rubenmarin21
 [08Dec2024 17:31:45.866] [Server thread/INFO] [tombstone/]: The player aras has successfully been saved
 [08Dec2024 17:31:47.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 has made the advancement [Funeral Theft]
+[08Dec2024 17:42:10.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras was slain by Harpy
+[08Dec2024 17:42:11.640] [Server thread/INFO] [tombstone/]: The player aras has successfully been saved
+[08Dec2024 17:42:44.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzz
+[08Dec2024 17:42:45.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzz
+[08Dec2024 17:42:45.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzz
+[08Dec2024 17:42:45.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzz
+[08Dec2024 17:42:45.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzz
+[08Dec2024 17:42:46.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzz
+[08Dec2024 17:42:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzz
+[08Dec2024 17:42:46.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzz
+[08Dec2024 17:42:46.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzz
+[08Dec2024 17:42:46.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzz
+[08Dec2024 17:42:46.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzz
+[08Dec2024 17:42:46.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzz
+[08Dec2024 17:42:47.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzz
+[08Dec2024 17:42:47.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J0T4_19 lost connection: Kicked for spamming
+[08Dec2024 17:42:47.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 left the game
+[08Dec2024 17:42:47.362] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Dec2024 17:42:53.334] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J0T4_19[/127.36.173.73:50689] logged in with entity id 51693 at (347.5, 82.6875, -2183.5)
+[08Dec2024 17:42:53.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 joined the game
+[08Dec2024 17:42:53.359] [Server thread/INFO] [Jade/]: Syncing config to J0T4_19 (00247360-7c75-324f-925b-0b5f73cfb2cd)
+[08Dec2024 17:43:01.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzz
+[08Dec2024 17:43:09.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> ZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZz
+[08Dec2024 17:43:10.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> ZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZz
+[08Dec2024 17:43:10.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> ZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZz
+[08Dec2024 17:43:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> ZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZz
+[08Dec2024 17:43:44.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aras lost connection: Disconnected
+[08Dec2024 17:43:44.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras left the game
+[08Dec2024 17:43:47.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZ
+[08Dec2024 17:43:48.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> ZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZz
+[08Dec2024 17:43:49.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:43:50.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZZ
