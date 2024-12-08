@@ -504,3 +504,7 @@
 [08Dec2024 15:58:17.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
 [08Dec2024 16:02:00.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [Safe Haven]
 [08Dec2024 16:02:24.747] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=339, y=79, z=-2048}
+[08Dec2024 16:06:00.657] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager PosVillager['Possessed Villager'/12588, l='ServerLevel[world]', x=328.51, y=84.00, z=-2399.95] died, message: 'Possessed Villager was slain by Vindicator'
+[08Dec2024 16:09:57.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [Stone Age]
+[08Dec2024 16:10:33.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [A Strange Grave Dust]
+[08Dec2024 16:10:59.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [Getting an Upgrade]
