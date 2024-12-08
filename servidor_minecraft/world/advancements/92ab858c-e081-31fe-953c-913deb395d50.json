@@ -5797,15 +5797,39 @@
     },
     "done": true
   },
+  "expandedstorage:recipes/misc/obsidian_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-08 16:33:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-08 15:48:19 +0000"
     },
     "done": true
   },
+  "expandedstorage:recipes/misc/copper_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-08 16:33:39 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/iron_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-08 16:33:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-08 15:55:00 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_previous_block": "2024-12-08 16:33:39 +0000"
     },
     "done": true
   },
@@ -5821,15 +5845,51 @@
     },
     "done": true
   },
+  "expandedstorage:recipes/misc/diamond_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-08 16:33:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2024-12-08 15:48:19 +0000"
     },
     "done": true
   },
+  "expandedstorage:recipes/misc/gold_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-08 16:33:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-08 16:33:39 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/netherite_mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-08 16:33:39 +0000"
+    },
+    "done": true
+  },
+  "expandedstorage:recipes/misc/mini_barrel": {
+    "criteria": {
+      "has_item": "2024-12-08 16:33:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2024-12-08 15:51:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-08 16:33:39 +0000"
     },
     "done": true
   },

@@ -7309,3 +7309,26 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Dec2024 16:20:53.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Dec2024 16:20:53.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Dec2024 16:21:44.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [Diamonds!]
+[08Dec2024 16:25:13.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [Knowledge of Death]
+[08Dec2024 16:25:13.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [Ashes 'n Bones]
+[08Dec2024 16:25:23.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [Knowledge raises the soul]
+[08Dec2024 16:25:53.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 16:25:53.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 16:30:53.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 16:30:53.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 16:35:53.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 16:35:53.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 16:39:16.844] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=442, y=87, z=-2216}
+[08Dec2024 16:39:38.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 16:39:39.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 16:39:40.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZ
+[08Dec2024 16:39:41.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
+[08Dec2024 16:39:42.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 16:39:43.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
+[08Dec2024 16:39:43.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 16:39:43.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
+[08Dec2024 16:39:44.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
+[08Dec2024 16:39:44.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
+[08Dec2024 16:39:45.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 16:40:53.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 16:40:53.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
