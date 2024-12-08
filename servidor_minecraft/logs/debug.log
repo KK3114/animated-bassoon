@@ -7559,3 +7559,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Dec2024 17:13:24.964] [Server thread/INFO] [tombstone/]: The player J0T4_19 has successfully been saved
 [08Dec2024 17:13:26.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [The Most Useful Key]
 [08Dec2024 17:13:30.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has reached the goal [A Fast Comeback]
+[08Dec2024 17:15:53.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 17:15:53.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 17:20:53.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 17:20:53.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 17:25:41.994] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-136, y=78, z=-2221}
+[08Dec2024 17:25:53.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 17:25:53.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

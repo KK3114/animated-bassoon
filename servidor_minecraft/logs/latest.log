@@ -569,3 +569,4 @@
 [08Dec2024 17:13:24.964] [Server thread/INFO] [tombstone/]: The player J0T4_19 has successfully been saved
 [08Dec2024 17:13:26.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [The Most Useful Key]
 [08Dec2024 17:13:30.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has reached the goal [A Fast Comeback]
+[08Dec2024 17:25:41.994] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-136, y=78, z=-2221}
