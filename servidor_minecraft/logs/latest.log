@@ -534,3 +534,12 @@
 [08Dec2024 16:51:18.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
 [08Dec2024 16:51:18.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
 [08Dec2024 16:51:19.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
+[08Dec2024 17:02:30.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rubenmarin21 moved wrongly!
+[08Dec2024 17:03:27.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brigg (vehicle of J0T4_19) moved too quickly! 2.9565472326265763,0.0,9.984323961288737
+[08Dec2024 17:03:27.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brigg (vehicle of J0T4_19) moved too quickly! 3.0796563316144443,0.0,10.381361668470845
+[08Dec2024 17:03:27.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brigg (vehicle of J0T4_19) moved too quickly! 3.202550760009501,0.0,10.773186985368284
+[08Dec2024 17:03:50.944] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-286, y=63, z=-1887}
+[08Dec2024 17:04:30.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:04:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
+[08Dec2024 17:04:31.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:04:33.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZ
