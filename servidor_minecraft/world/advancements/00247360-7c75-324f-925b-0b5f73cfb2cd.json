@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-08 15:54:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-08 15:40:27 +0000"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-08 15:52:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-08 15:39:48 +0000"
@@ -188,12 +200,14 @@
   "endofherobrine:story/exorcist": {
     "criteria": {
       "endofherobrine:chicken": "2024-12-08 15:46:11 +0000",
+      "endofherobrine:silverfish": "2024-12-08 15:53:42 +0000",
       "endofherobrine:sheep": "2024-12-08 15:46:41 +0000"
     },
     "done": false
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-08 15:53:21 +0000",
       "minecraft:creeper": "2024-12-08 15:48:26 +0000"
     },
     "done": false
@@ -255,6 +269,12 @@
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2024-12-08 15:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-08 15:51:46 +0000"
     },
     "done": true
   },
@@ -345,6 +365,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-08 15:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-08 15:54:01 +0000"
     },
     "done": true
   },
@@ -666,6 +692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-08 15:54:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2024-12-08 15:45:24 +0000"
@@ -705,6 +737,12 @@
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2024-12-08 15:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-08 15:53:21 +0000"
     },
     "done": true
   },
@@ -765,6 +803,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-08 15:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-08 15:58:18 +0000"
     },
     "done": true
   },
@@ -852,6 +896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-08 15:58:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-08 15:46:14 +0000"
@@ -873,6 +923,12 @@
   "smallships:recipes/transportation/acacia_drakkar": {
     "criteria": {
       "in_water": "2024-12-08 15:39:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2024-12-08 15:53:21 +0000"
     },
     "done": true
   },
@@ -944,6 +1000,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-12-08 15:54:31 +0000",
       "minecraft:river": "2024-12-08 15:39:31 +0000",
       "minecraft:forest": "2024-12-08 15:48:00 +0000",
       "minecraft:flower_forest": "2024-12-08 15:40:15 +0000",

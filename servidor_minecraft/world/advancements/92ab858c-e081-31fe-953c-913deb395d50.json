@@ -5803,6 +5803,18 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-08 15:55:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-08 15:51:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-08 15:48:19 +0000"
@@ -5812,6 +5824,12 @@
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2024-12-08 15:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-08 15:51:42 +0000"
     },
     "done": true
   },
