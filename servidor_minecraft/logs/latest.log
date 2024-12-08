@@ -570,3 +570,15 @@
 [08Dec2024 17:13:26.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [The Most Useful Key]
 [08Dec2024 17:13:30.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has reached the goal [A Fast Comeback]
 [08Dec2024 17:25:41.994] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-136, y=78, z=-2221}
+[08Dec2024 17:29:35.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aras[/127.48.6.62:40107] logged in with entity id 45951 at (-113.06575829915515, 79.0, -2197.2161535482483)
+[08Dec2024 17:29:36.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras joined the game
+[08Dec2024 17:29:36.098] [Server thread/INFO] [Jade/]: Syncing config to aras (8083625b-d94e-3165-8b81-a8a6e1e3f6dc)
+[08Dec2024 17:29:36.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras has made the advancement [Mysterious Gift]
+[08Dec2024 17:29:51.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZ
+[08Dec2024 17:29:52.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:29:54.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:29:55.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:31:44.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras has made the advancement [Magic Writing]
+[08Dec2024 17:31:44.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aras was slain by rubenmarin21
+[08Dec2024 17:31:45.866] [Server thread/INFO] [tombstone/]: The player aras has successfully been saved
+[08Dec2024 17:31:47.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rubenmarin21 has made the advancement [Funeral Theft]
