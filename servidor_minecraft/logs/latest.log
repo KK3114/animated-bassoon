@@ -543,3 +543,29 @@
 [08Dec2024 17:04:31.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
 [08Dec2024 17:04:31.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZZZZZ
 [08Dec2024 17:04:33.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:06:26.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:06:27.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:06:29.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:06:30.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:06:31.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:06:33.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:06:34.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rubenmarin21> ZZZZZZZZZZZZZZZZZZZZZZZZ
+[08Dec2024 17:06:55.894] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=329, y=100, z=-2112}
+[08Dec2024 17:07:18.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
+[08Dec2024 17:07:18.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
+[08Dec2024 17:07:18.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
+[08Dec2024 17:07:18.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
+[08Dec2024 17:07:19.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <J0T4_19> zzzzzzzzzzzzzz
+[08Dec2024 17:07:51.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J0T4_19 lost connection: Disconnected
+[08Dec2024 17:07:51.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 left the game
+[08Dec2024 17:09:04.974] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J0T4_19[/127.36.173.73:55977] logged in with entity id 38308 at (405.03809138494387, 89.0, -2185.1789109894435)
+[08Dec2024 17:09:05.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 joined the game
+[08Dec2024 17:09:05.088] [Server thread/INFO] [Jade/]: Syncing config to J0T4_19 (00247360-7c75-324f-925b-0b5f73cfb2cd)
+[08Dec2024 17:09:05.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [Mysterious Gift]
+[08Dec2024 17:13:24.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has reached the goal [Strong or Careful]
+[08Dec2024 17:13:24.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 fell from a high place
+[08Dec2024 17:13:24.952] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for J0T4_19 with unique ID travelersbackpack.standard_08.12.2024-17.13.24.dat
+[08Dec2024 17:13:24.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [Your First Grave]
+[08Dec2024 17:13:24.964] [Server thread/INFO] [tombstone/]: The player J0T4_19 has successfully been saved
+[08Dec2024 17:13:26.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [The Most Useful Key]
+[08Dec2024 17:13:30.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has reached the goal [A Fast Comeback]
