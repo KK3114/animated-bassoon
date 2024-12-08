@@ -619,3 +619,7 @@
 [08Dec2024 17:50:20.794] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-143, y=78, z=-2230}
 [08Dec2024 18:06:20.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J0T4_19 lost connection: Disconnected
 [08Dec2024 18:06:20.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 left the game
+[08Dec2024 19:08:53.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J0T4_19[/127.36.173.73:34039] logged in with entity id 59080 at (344.0428440084708, 80.0, -2176.467119221282)
+[08Dec2024 19:08:53.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 joined the game
+[08Dec2024 19:08:53.638] [Server thread/INFO] [Jade/]: Syncing config to J0T4_19 (00247360-7c75-324f-925b-0b5f73cfb2cd)
+[08Dec2024 19:11:23.744] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=398, y=87, z=-2173}
