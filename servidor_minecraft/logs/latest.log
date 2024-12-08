@@ -623,3 +623,6 @@
 [08Dec2024 19:08:53.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 joined the game
 [08Dec2024 19:08:53.638] [Server thread/INFO] [Jade/]: Syncing config to J0T4_19 (00247360-7c75-324f-925b-0b5f73cfb2cd)
 [08Dec2024 19:11:23.744] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=398, y=87, z=-2173}
+[08Dec2024 19:17:42.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 has made the advancement [Take Aim]
+[08Dec2024 19:19:34.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J0T4_19 lost connection: Disconnected
+[08Dec2024 19:19:34.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: J0T4_19 left the game
