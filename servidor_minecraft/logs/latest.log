@@ -440,3 +440,4 @@
 [09Dec2024 09:38:04.324] [Server thread/INFO] [Jade/]: Syncing config to Alexaire69 (787ef932-3a45-3a2d-a7e7-05eb6a1abbf3)
 [09Dec2024 09:38:04.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 has made the advancement [Christmas]
 [09Dec2024 09:38:04.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 has made the advancement [Mysterious Gift]
+[09Dec2024 09:48:45.814] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-264, y=68, z=-1867}
