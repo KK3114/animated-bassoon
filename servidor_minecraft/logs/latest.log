@@ -441,3 +441,5 @@
 [09Dec2024 09:38:04.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 has made the advancement [Christmas]
 [09Dec2024 09:38:04.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 has made the advancement [Mysterious Gift]
 [09Dec2024 09:48:45.814] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-264, y=68, z=-1867}
+[09Dec2024 10:03:50.762] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-297, y=63, z=-1932}
+[09Dec2024 10:07:23.812] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-278, y=63, z=-1925}
