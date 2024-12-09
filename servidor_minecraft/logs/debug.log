@@ -6298,3 +6298,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Dec2024 09:38:04.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 has made the advancement [Christmas]
 [09Dec2024 09:38:04.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexaire69 has made the advancement [Mysterious Gift]
 [09Dec2024 09:38:05.774] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0x80af6074d726d86f
+[09Dec2024 09:39:31.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 09:39:31.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 09:44:31.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 09:44:31.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

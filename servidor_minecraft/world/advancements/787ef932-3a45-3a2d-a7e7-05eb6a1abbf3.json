@@ -6075,5 +6075,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 09:38:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 09:38:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
